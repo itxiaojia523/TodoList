@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 import './index.css';
-import App from './App';
+import App from './App'; // 只有.js可以省略 .css不行
 import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
